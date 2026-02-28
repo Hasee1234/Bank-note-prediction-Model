@@ -1,7 +1,14 @@
-fastapi==0.131.0
-uvicorn==0.41.0
-numpy==2.4.2
-pandas==3.0.0
-matplotlib==3.10.8
-scikit-learn==1.8.0
-tensorflow==2.20.0
+# fastapi
+# uvicorn
+# numpy
+# pandas
+# matplotlib
+# scikit-learn
+# tensorflow
+fastapi==0.110.0
+uvicorn==0.27.1
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+scikit-learn==1.4.2
+tensorflow==2.15.0
